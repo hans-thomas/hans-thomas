@@ -8,6 +8,9 @@ Some of my PRs on Github:
 - https://github.com/laravel/framework/pull/48122
 - https://github.com/PackagePages/LaravelPackage.com/pull/141
 - https://github.com/mongodb/laravel-mongodb/pull/2653
-- https://github.com/mongodb/laravel-mongodb/pull/2667
+- https://github.com/mongodb/laravel-mongodb/pull/2658
+- https://github.com/mongodb/laravel-mongodb/pull/2670
+- https://github.com/mongodb/laravel-mongodb/pull/2688
+- https://github.com/mongodb/laravel-mongodb/pull/2690
 
 Please take a look at my pinned repositories and if you find them useful, give 'em a 🌟.
