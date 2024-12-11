@@ -38,7 +38,7 @@ As it's obvious, I'm interested in contributing to open-source projects. So, if 
 <div/>
 
 ## My works
-In my free time, I enjoy creating packages and developing them. I pinned some of my packages on my profile and I will be glad if you take a look and support me with a <img src="./assets/star.gif" height="30"/>.
+In my free time, I enjoy creating and developing packages. I pinned some of my packages on my profile and I will be glad if you take a look and support me with a <img src="./assets/star.gif" height="30"/>.
 
 <div align="center">
   <img src="https://github.com/hans-thomas/hans-thomas/blob/da8f7365223f4e33be4046a23b738cd32cfef422/assets/octocat-1733904581028.png" height="500"/>
