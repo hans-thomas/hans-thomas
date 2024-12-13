@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
 # Hello everyone <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="40"/>
 
 I'm Hans, a Laravel back-end developer for over 5 years. I mostly work with the Laravel framework and contribute to the Open-source projects. You can see some of my contributions here:
