@@ -12,13 +12,16 @@ I'm Hans, a Laravel back-end developer for over 5 years. I mostly work with the 
 - https://github.com/mongodb/laravel-mongodb/pull/2670
 - https://github.com/mongodb/laravel-mongodb/pull/2688
 - https://github.com/mongodb/laravel-mongodb/pull/2690
-[See all 19 PRs](https://github.com/mongodb/laravel-mongodb/pulls?q=is%3Apr+author%3Ahans-thomas)
 
-### <img src="./assets/rector.png" height="30"/> rectorphp/rector-src
-- https://github.com/rectorphp/rector-src/pull/6432
+[See all 19 PRs](https://github.com/mongodb/laravel-mongodb/pulls?q=is%3Apr+author%3Ahans-thomas)
 
 ### <img src="./assets/laravel-swagger.svg" height="30"/> RonasIT/laravel-swagger
 - https://github.com/RonasIT/laravel-swagger/pull/146
+- https://github.com/RonasIT/laravel-swagger/pull/150
+- https://github.com/RonasIT/laravel-swagger/pull/152
+
+### <img src="./assets/rector.png" height="30"/> rectorphp/rector-src
+- https://github.com/rectorphp/rector-src/pull/6432
 
 As it's obvious, I'm interested in contributing to open-source projects. So, if you need a hand, call me🤙.
 
