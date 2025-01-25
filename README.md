@@ -1,6 +1,8 @@
 # Hello everyone <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="40"/>
 
-I'm Hans, a Laravel back-end developer for over 5 years. I mostly work with the Laravel framework and contribute to the Open-source projects. You can see some of my contributions here:
+I'm Hans, a Laravel back-end developer for over 5 years. I mostly work with the Laravel framework and contribute to the Open-source projects.
+
+## My PRs <img src="./assets/pr-icon.png" height="40"/>
 
 ### <img src="./assets/laravel-logo.png" height="30"/> laravel/framework
 - https://github.com/laravel/framework/pull/48219
@@ -42,6 +44,6 @@ As it's obvious, I'm interested in contributing to open-source projects. So, if 
 In my free time, I enjoy creating and developing packages. I pinned some of my packages on my profile and I will be glad if you take a look and support me with a <img src="./assets/star.gif" height="30"/>.
 
 <div align="center">
-  <img src="https://github.com/hans-thomas/hans-thomas/blob/da8f7365223f4e33be4046a23b738cd32cfef422/assets/octocat-1733904581028.png" height="500"/>
+  <img src="./assets/octocat-1733904581028.png" height="500"/>
 </div>
 
