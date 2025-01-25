@@ -17,15 +17,18 @@ I'm Hans, a Laravel back-end developer for over 5 years. I mostly work with the 
 
 [See all 19 PRs](https://github.com/mongodb/laravel-mongodb/pulls?q=is%3Apr+author%3Ahans-thomas)
 
+### <img src="./assets/rector.png" height="30"/> rectorphp organization
+- https://github.com/rectorphp/rector-src/pull/6432
+- https://github.com/rectorphp/rector-phpunit/pull/437
+- https://github.com/driftingly/rector-laravel/pull/294
+
 ### <img src="./assets/laravel-swagger.svg" height="30"/> RonasIT/laravel-swagger
 - https://github.com/RonasIT/laravel-swagger/pull/146
 - https://github.com/RonasIT/laravel-swagger/pull/150
 - https://github.com/RonasIT/laravel-swagger/pull/152
+- https://github.com/RonasIT/laravel-swagger/pull/153
 
-### <img src="./assets/rector.png" height="30"/> rectorphp/rector-src
-- https://github.com/rectorphp/rector-src/pull/6432
-
-As it's obvious, I'm interested in contributing to open-source projects. So, if you need a hand, call me🤙.
+As it's obvious, I'm interested in contributing to open-source projects. So, if you need a hand, call me🤙
 
 ## My skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="40"/>
 
@@ -41,7 +44,7 @@ As it's obvious, I'm interested in contributing to open-source projects. So, if 
 <div/>
 
 ## My works
-In my free time, I enjoy creating and developing packages. I pinned some of my packages on my profile and I will be glad if you take a look and support me with a <img src="./assets/star.gif" height="30"/>.
+In my free time, I enjoy creating and developing packages. I pinned some of my packages on my profile and I will be glad if you take a look and support me with a <img src="./assets/star.gif" height="30"/>
 
 <div align="center">
   <img src="./assets/octocat-1733904581028.png" height="500"/>
