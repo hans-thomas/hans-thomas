@@ -20,6 +20,7 @@ I'm Hans, a Laravel back-end developer for over 5 years. I mostly work with the 
 ### <img src="./assets/rector.png" height="30"/> rectorphp organization
 - https://github.com/rectorphp/rector-src/pull/6432
 - https://github.com/rectorphp/rector-phpunit/pull/437
+- https://github.com/rectorphp/rector-phpunit/pull/454
 - https://github.com/driftingly/rector-laravel/pull/294
 
 ### <img src="./assets/laravel-swagger.svg" height="30"/> RonasIT/laravel-swagger
