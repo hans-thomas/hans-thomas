@@ -1,6 +1,6 @@
 # Hello everyone <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="40"/>
 
-I’m Mortazavi, and I have a passion for coding with PHP and the Laravel framework. I am eager to develop my skills and pursue a career in back-end development. Additionally, I enjoy contributing to open-source projects, so feel free to check out some of my contributions in PRs section!
+I’m Mortazavi, and I have a passion for coding with PHP and the Laravel framework. I am eager to develop my skills and pursue a career in back-end development. Additionally, I enjoy contributing to open-source projects, so feel free to check out some of my contributions in the PRs section!
 
 Lately, I’ve dived into C++ and the Qt framework to expand my skill set, and I’m excited to learn more. I look forward to connecting with you all!😉
 
@@ -36,14 +36,20 @@ As it's obvious, I'm interested in contributing to open-source projects. So, if 
 ## My skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="40"/>
 
 <div>
-<img width="50" height="50" src="https://img.icons8.com/stickers/50/php.png" alt="php"/>
-<img width="50" height="50" src="https://img.icons8.com/stickers/50/laravel.png" alt="laravel"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-<img width="50" height="50" src="https://img.icons8.com/stickers/50/test.png" alt="unit test"/>
-<img width="50" height="50" src="https://img.icons8.com/stickers/50/api.png" alt="api"/>
-<img width="50" height="50" src="https://img.icons8.com/stickers/50/sql.png" alt="sql"/>
-<img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/git.png" alt="git"/>
-<img width="50" height="50" src="https://img.icons8.com/stickers/50/linux-client.png" alt="linux-client"/>
+<img width="50" height="50" src="https://img.icons8.com/stickers/50/php.png" title="PHP"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=IGk2M0prV73V&format=png&color=000000" title="OOP"/>
+<img width="50" height="50" src="https://img.icons8.com/stickers/50/laravel.png" title="Laravel"/>
+<img width="50" height="50" src="https://img.icons8.com/stickers/50/test.png" title="Unit testing"/>
+<img width="50" height="50" src="https://img.icons8.com/stickers/50/api.png" title="Api services"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=40&id=LXdi0FHIXqOb&format=png&color=000000" title="Filament"/>
+<img width="50" height="50" src="https://img.icons8.com/stickers/50/sql.png" title="SQL"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
+<img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/git.png" title="Git"/>
+<img width="50" height="50" src="https://img.icons8.com/stickers/50/linux-client.png" title="Linux"/>
+<img width="50" height="50" src="https://github.com/user-attachments/assets/6daa84c3-cac2-4978-b2df-692c3138dc08" title="DevOps"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=TkG10j-DmXkU&format=png&color=000000" title="Docker"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" title="Nginx"/>
+<img width="50" height="50" src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000" title="Postman"/>
 <div/>
 
 ## My works
